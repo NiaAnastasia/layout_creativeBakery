@@ -12,10 +12,6 @@ Object positioning was done using Grid and Flex.
 
 SASS preprocessor was used. To ensure proper content display on devices with different screen resolutions, mixins with media queries were utilized.
 
-- The design 1440px
-- Desktop 1280px
-- Tablet 640px
-- Mobile (> 320px)
 
-  [DEMO LINK](https://niaanastasia.github.io/layout_creativeBakery/).
+  [DEMO LINK](https://NiaAnastasia.github.io/layout_creativeBakery/).
 
